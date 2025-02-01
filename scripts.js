@@ -1,4 +1,4 @@
-const API_URL = "https://api.exchangerate-api.com/v4/latest/BRL"; // API de câmbio
+const API_URL = "https://api.exchangerate-api.com/v4/latest/BRL";
 
 const form = document.querySelector("form");
 const amount = document.getElementById("amount");
